@@ -94,4 +94,6 @@ This project demonstrates SQL‑driven data analysis on a pizza sales dataset. U
 
 🔗 Connect with Me
 
-🐙 [GitHub](https://github.com/ankitsaini605) 🔗 [LinkedIn](https://linkedin.com/in/ankitsaini605) 🌐 [Portfolio]() 
+**Ankit Saini**
+
+🐙 [GitHub](https://github.com/ankitsaini605) 🔗 [LinkedIn](https://linkedin.com/in/ankitsaini605) 🌐 [Portfolio](https://ankitsaini605.github.io/) 📧 [Email](https://ankitsaini24082002@gmail.com) 
